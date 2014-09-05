@@ -4,6 +4,10 @@ body {
   padding: 25x;
 }
 
+.container {
+  background-color: light-gray;
+}
+
 h1 {
   color: blue;
   padding: 25px;
