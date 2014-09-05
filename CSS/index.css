@@ -15,6 +15,7 @@ h1 {
 
 ul#navigationMenu {
   list-style-type: none;
+  display: inline;
   float: right;
   margin-right: 50px;
 }
