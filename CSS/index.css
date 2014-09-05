@@ -1,11 +1,12 @@
 
 body {
   background-color: gray;
-  padding: 25x;
 }
 
 .container {
   background-color: #C0C0C0;
+  margin: 50px;
+  
 }
 
 h1 {
