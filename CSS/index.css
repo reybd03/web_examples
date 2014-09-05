@@ -1,18 +1,18 @@
 
 body {
   background-color: gray;
-  padding: 75px;
+  padding: 25x;
 }
 
 h1 {
   color: blue;
+  padding: 25px;
 }
 
-h2 {
-  float: right;
-  margin-right: 100px;
-}
+
 
 ul#navigationMenu {
   list-style-type: none;
+  float: right;
+  margin-right: 50px;
 }
