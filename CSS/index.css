@@ -9,7 +9,9 @@ h1 {
   padding: 25px;
 }
 
-
+.content {
+  margin-top: 100px;
+}
 
 ul#navigationMenu {
   list-style-type: none;
