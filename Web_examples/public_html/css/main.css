@@ -21,6 +21,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    background-color: #C0C0C0;
 }
 
 a {
@@ -65,22 +66,39 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.container {
+    margin: 50px;
+}
+h1 {
+    padding: 25px;
+}
+.content {
+  margin-top: 100px;
+  
+}
+
+ul#navigationMenu {
+  list-style-type: none;
+  float: right;
+  margin-right: 150px;
+}
+
+ul#navigationMenu li {
+  display: inline;
+  margin: 10px;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer {
+  background-color: #0099cc;
+  font-size: 24px;
+  font-style: italic;
+  margin-top: 50px;
+  padding-left: 150px;
+  
+  position: relative;
+  clear: both;
+}
 
 /* ==========================================================================
    Helper classes
