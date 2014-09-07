@@ -70,8 +70,9 @@ textarea {
 .container {
     margin: 50px;
     background-color: #FFF;
+    border-style: solid;
     border-color: #105cb6;
-    border-radius: 2px;
+    border-radius: 3px;
 }
 h1 {
     padding: 25px;
