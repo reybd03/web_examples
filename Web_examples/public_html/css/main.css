@@ -85,10 +85,10 @@ h1 {
 #navigationMenu {
   list-style-type: none;
   float: right;
-  margin-right: 150px;
+  margin-right: 100px;
 }
 .footer {
-  
+  float: right;
   font-size: 24px;
   font-style: italic;
   margin-top: 50px;
