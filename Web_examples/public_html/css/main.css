@@ -69,6 +69,9 @@ textarea {
 
 .container {
     margin: 50px;
+    background-color: #FFF;
+    border-color: #105cb6;
+    border-radius: 2px;
 }
 h1 {
     padding: 25px;
