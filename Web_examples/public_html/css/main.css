@@ -25,16 +25,16 @@ body {
 }
 
 a {
-    color: #E6B85C;
+    color: #0099cc;
     text-decoration: none;
 }
 
 a:visited {
-    color: #E6B85C;
+    color: #0099cc;
 }
 
 a:hover {
-    color: #E6B85C;
+    color: #0099cc;
 }
 
 /*
@@ -83,7 +83,7 @@ h1 {
   margin-right: 150px;
 }
 .footer {
-  background-color: #0099cc;
+  
   font-size: 24px;
   font-style: italic;
   margin-top: 50px;
