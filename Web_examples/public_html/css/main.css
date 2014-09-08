@@ -85,6 +85,9 @@ textarea {
 h1 {
     padding-left: 75px;
 }
+#searchBar {
+    float: right;
+}
 .content {
   margin-top: 100px;
 }
