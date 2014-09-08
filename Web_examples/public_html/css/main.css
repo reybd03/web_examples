@@ -100,6 +100,11 @@ form#searchBar {
     clear: both;
     margin-top: 30px;
 }
+#searchBar.button {
+    border: 2px solid #207cca;
+    background-color: #207cca;
+    color: #fafafa;
+}
 .content {
   margin-top: 20px;
 }
