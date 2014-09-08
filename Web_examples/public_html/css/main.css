@@ -98,6 +98,11 @@ form#searchBar {
     clear: both;
     margin-top: 30px;
 }
+.sText {
+    padding: 8px 15px;
+    background: rgba(50,50,50,0.2);
+    border: 0px solid #dbdbdb;
+}
 .sButton {
     position:relative;
     padding:6px 15px;
@@ -106,7 +111,29 @@ form#searchBar {
     background-color:#207cca;
     color:#fafafa;
 }
-
+.sButton:hover {
+    background-color: #fafafa;
+    color:#207cca;
+}
+.arrow {
+    position: relative;
+    left:-8px;
+    background: #207cca;
+    padding: 8px 15px;
+}
+.arrow:after {
+    right:100%;
+    top:50%;
+    border:solid transparent;
+    content: " ";
+    height:0;
+    width:0;
+    position: absolute;
+    border-color: rgba(32,124,202,0);
+    border-right-color: #207cca;
+    border-width: 10px;
+    margin-top:-10px;
+}
 .content {
   margin-top: 20px;
 }
