@@ -91,12 +91,12 @@ nav#navigationMenu {
   margin-right: 150px;
   margin-top: 50px;
   word-spacing: 10px;
-  position: absolute;
+  
 }
 form#searchBar {
     float: right;
     margin-right: 100px;
-    position: absolute;
+    
 }
 .content {
   margin-top: 20px;
