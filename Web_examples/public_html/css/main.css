@@ -80,6 +80,7 @@ textarea {
     border-color: #105cb6;
     border-radius: 3px;
     padding: 75px;
+    opacity: 0.7;
 }
 h1 {
     padding-left: 75px;
