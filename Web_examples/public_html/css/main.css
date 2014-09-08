@@ -85,7 +85,7 @@ textarea {
 h1 {
     padding-left: 75px;
 }
-#navigationMenu {
+nav#navigationMenu {
   list-style-type: none;
   float: right;
   margin-right: 150px;
@@ -93,7 +93,7 @@ h1 {
   word-spacing: 10px;
   position: absolute;
 }
-#searchBar {
+form#searchBar {
     float: right;
     margin-right: 100px;
     position: absolute;
