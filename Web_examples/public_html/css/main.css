@@ -100,7 +100,7 @@ form#searchBar {
     clear: both;
     margin-top: 30px;
 }
-.button {
+form#searchBar.button {
     
     background-color: #207cca;
     color: #fafafa;
