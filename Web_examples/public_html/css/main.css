@@ -94,7 +94,9 @@ h1 {
 #navigationMenu {
   list-style-type: none;
   float: right;
-  margin-right: 100px;
+  margin-right: 150px;
+  margin-top: 50px;
+  word-spacing: 10px;
 }
 .footer {
   float: right;
