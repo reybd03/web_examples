@@ -70,7 +70,7 @@ textarea {
 #header {
     background-color: white; 
     padding-top: 15px;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 
 .container {
@@ -85,7 +85,7 @@ h1 {
     padding-left: 75px;
 }
 .content {
-  margin-top: 10px;
+  margin-top: 100px;
   
 }
 #navigationMenu {
