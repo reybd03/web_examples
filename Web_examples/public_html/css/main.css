@@ -98,11 +98,7 @@ form#searchBar {
     clear: both;
     margin-top: 30px;
 }
-#searchBar button {
-    
-    background-color: #207cca;
-    color: #fafafa;
-}
+
 .content {
   margin-top: 20px;
 }
@@ -251,4 +247,8 @@ textarea[contenteditable] {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min-resolution: 144dpi) {
     /* Style adjustments for viewports that meet the condition */
+}
+
+button {
+background-color: white;
 }
