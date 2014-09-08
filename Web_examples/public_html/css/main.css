@@ -12,7 +12,7 @@
 
 html,
 button,
-input,
+
 select,
 textarea {
     color: #222;
@@ -103,7 +103,7 @@ form#searchBar {
 .button {
     
     background-color: white;
-    color: #fafafa;
+    color: aqua;
 }
 .content {
   margin-top: 20px;
