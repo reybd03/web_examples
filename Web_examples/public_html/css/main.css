@@ -70,6 +70,7 @@ textarea {
 #header {
     background-color: white; 
     padding-top: 15px;
+    opacity: 0.5;
 }
 
 .container {
