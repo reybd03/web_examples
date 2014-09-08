@@ -94,6 +94,7 @@ h1 {
 }
 #searchBar {
     float: right;
+    margin-right: 0px;
 }
 .content {
   margin-top: 100px;
