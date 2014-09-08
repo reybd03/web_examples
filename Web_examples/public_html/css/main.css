@@ -74,12 +74,12 @@ textarea {
 }
 
 .container {
-    margin: 5px;
+    margin: 150px;
     background-color: #FFF;
     border-style: solid;
     border-color: #105cb6;
     border-radius: 3px;
-    padding: 5px;
+    padding: 75px;
 }
 h1 {
     padding-left: 75px;
