@@ -100,9 +100,9 @@ form#searchBar {
     clear: both;
     margin-top: 30px;
 }
-form#searchBar.button {
+.button {
     
-    background-color: #207cca;
+    background-color: white;
     color: #fafafa;
 }
 .content {
