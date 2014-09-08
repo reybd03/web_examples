@@ -87,8 +87,8 @@ h1 {
 }
 nav#navigationMenu {
   list-style-type: none;
-  float: right;
-  margin-right: 150px;
+  float: left;
+  margin-left: 50px;
   margin-top: 10px;
   word-spacing: 10px;
   clear: both;
