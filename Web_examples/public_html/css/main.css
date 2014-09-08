@@ -89,9 +89,10 @@ nav#navigationMenu {
   list-style-type: none;
   float: right;
   margin-right: 150px;
-  margin-top: 20px;
+  margin-top: 10px;
   word-spacing: 10px;
   clear: both;
+  position: absolute;
 }
 form#searchBar {
     float: right;
