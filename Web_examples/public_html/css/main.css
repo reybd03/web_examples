@@ -100,8 +100,8 @@ form#searchBar {
 }
 #searchBar button,input {
     
-    background-color: white;
-    color: aqua;
+    background-color: #207cca;
+    color: #fafafa;
 }
 .content {
   margin-top: 20px;
