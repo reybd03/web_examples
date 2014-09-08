@@ -98,7 +98,7 @@ form#searchBar {
     clear: both;
     margin-top: 30px;
 }
-#searchBar button,input {
+#searchBar button {
     
     background-color: #207cca;
     color: #fafafa;
