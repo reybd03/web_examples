@@ -91,6 +91,7 @@ nav#navigationMenu {
   word-spacing: 10px;
   clear: both;
   position: absolute;
+  display: block;
 }
 form#searchBar {
     float: right;
