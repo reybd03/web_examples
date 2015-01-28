@@ -83,7 +83,7 @@ textarea {
 h1 {
     padding-left: 75px;
 }
-nav#navigationMenu {
+ul.leftNavMenu {
   list-style-type: none;
   float: left;
   margin-left: 50px;
