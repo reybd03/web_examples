@@ -159,6 +159,10 @@ form#searchBar {
     border-width: 10px;
     margin-top:-10px;
 }
+::-webkit-input-placeholder {
+    /* For WebKit browsers */
+    color: #33292E;
+}
 .content {
   margin: 0px 150px 50px;
   background-color: #D3D3D3;
