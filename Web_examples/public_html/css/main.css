@@ -178,6 +178,10 @@ form#searchBar {
     background-color: #C0C0C0;
     color: #33292E;
 }
+ul.bonus {
+    float: right;
+    list-style-type: none;
+}
 
 .footer, .footer a {
   float: right;
