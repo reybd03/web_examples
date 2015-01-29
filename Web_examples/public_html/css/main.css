@@ -103,7 +103,7 @@ img.daskLogo {
     list-style-type: none;
 }
 .fb_iframe_widget {
-    display: block;
+    display: block !important;
 }
 .fb-like {
     display: block;
