@@ -102,8 +102,7 @@ img.daskLogo {
 p.navMenu {
   list-style-type: none;
   float: left;
-  margin-right: 50px;
-  margin-top: 10px;
+  margin: 10px 50px 50px;
   word-spacing: 10px;
   clear: both;
   
