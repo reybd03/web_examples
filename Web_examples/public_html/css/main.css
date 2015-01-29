@@ -108,7 +108,7 @@ img.daskLogo {
     display: block !important;
 }
 .fb-like {
-    display: block;
+    width: 75%;
 }
 p.navMenu {
   list-style-type: none;
