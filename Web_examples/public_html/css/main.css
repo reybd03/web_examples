@@ -100,7 +100,7 @@ p.signIn, p.signIn a{
   z-index: -1;
   width: 1030px;
   overflow: hidden;
-  padding-right: 150px;
+  
   background: #000 url('https://cloud.githubusercontent.com/assets/2433593/5953224/a20c71de-a74b-11e4-9574-6c5486f1960b.jpg') top left no-repeat;
 }
 .social {
