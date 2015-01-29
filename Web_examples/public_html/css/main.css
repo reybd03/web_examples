@@ -85,7 +85,7 @@ p.signIn, p.signIn a{
   color: #00FF00;
 }
 .container {
-    margin: 0px 20%;
+    margin: 0px 20% 0px 20%;
     background-color: #000;
     border-style: solid;
     border-color: #000;
