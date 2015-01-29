@@ -95,10 +95,11 @@ p.signIn, p.signIn a{
     width: 75%;
     
 }
-img.daskLogo {
-  top: 0;
-  margin: 0% 0% 0% 3%;
-  
+#daskLogo {
+  //top: 0;
+  //margin: 0% 0% 0% 3%;
+  width: 725px;
+  background: #000 url('https://cloud.githubusercontent.com/assets/2433593/5953224/a20c71de-a74b-11e4-9574-6c5486f1960b.jpg') top left no-repeat;
 }
 .social {
     float: right;
