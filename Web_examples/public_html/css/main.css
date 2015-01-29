@@ -110,6 +110,7 @@ p.signIn, p.signIn a{
 }
 .fb-like {
     width: 75%;
+    float:right;
 }
 p.navMenu {
   list-style-type: none;
