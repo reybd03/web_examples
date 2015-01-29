@@ -181,12 +181,12 @@ form#searchBar {
 }
 ul.bonus {
     float: left;
-    list-style-type: none;
-    
+    list-style-type: none; 
 }
 ul.bonus a {
     display: block;
     color: #33292E;
+    text-decoration: underline;
 }
 
 .footer, .footer a {
