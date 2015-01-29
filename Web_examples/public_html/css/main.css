@@ -85,7 +85,7 @@ p.signIn, p.signIn a{
   color: #00FF00;
 }
 .container {
-    
+    vertical-align: middle;
     background-color: #000;
     border-style: solid;
     border-color: #000;
