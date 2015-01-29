@@ -180,7 +180,7 @@ form#searchBar {
     width: 35%;
 }
 ul.bonus {
-    float: right;
+    float: left;
     list-style-type: none;
 }
 ul.bonus a {
