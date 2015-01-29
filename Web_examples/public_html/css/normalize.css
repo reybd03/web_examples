@@ -14,7 +14,6 @@ details,
 figcaption,
 figure,
 footer,
-header,
 hgroup,
 main,
 nav,
@@ -29,6 +28,7 @@ summary {
 
 audio,
 canvas,
+header,
 video {
     display: inline-block;
 }
