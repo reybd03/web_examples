@@ -154,7 +154,7 @@ form#searchBar {
     width:0;
     position: absolute;
     border-color: rgba(32,124,202,0);
-    border-right-color: #207cca;
+    border-right-color: #00FF00;
     border-width: 10px;
     margin-top:-10px;
 }
