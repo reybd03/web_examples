@@ -102,6 +102,7 @@ p.signIn, p.signIn a{
   overflow: hidden;
   
   background: #000 url('https://cloud.githubusercontent.com/assets/2433593/5960791/7f078212-a79d-11e4-8e4d-1d6bfd82ca72.jpg') top left no-repeat;
+  background-size: 80%;
 }
 .social {
     float: right;
