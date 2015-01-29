@@ -77,7 +77,7 @@ h1.title {
     text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
     color: #00FF00;
 }
-p.signIn{
+p.signIn a{
   display: inline; 
   float: right;
   margin-right: 10%;
