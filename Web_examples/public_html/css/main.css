@@ -110,11 +110,10 @@ p.signIn, p.signIn a{
 }
 .fb_iframe_widget {
     display: block !important;
-    float:right !important;
 }
 .fb-like {
     width: 75%;
-    float:right;
+    float:left;
 }
 p.navMenu {
   list-style-type: none;
