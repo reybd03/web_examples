@@ -75,7 +75,8 @@ h1.title {
     display: inline;
 }
 p.signIn{
-  display: inline;  
+  display: inline; 
+  float: right;
 }
 .container {
     margin: 25px 150px;
