@@ -118,7 +118,7 @@ p.navMenu a {
 form#searchBar {
     float: right;
     margin-right: 5px;
-    
+    border-color: #00FF00;
     margin-top: 0px;
     margin-left: 50px;
 }
