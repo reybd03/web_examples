@@ -119,6 +119,7 @@ p.signIn, p.signIn a{
 .fb-like {
     width: 75%;
     float:left;
+    margin:5px;
 }
 p.navMenu {
   list-style-type: none;
