@@ -72,7 +72,7 @@ textarea {
 }
 h1 {
     padding-left: 75px;
-    margin-right: 75px;
+    float: left;
     width: 300px;
 }
 #header.signIn {
