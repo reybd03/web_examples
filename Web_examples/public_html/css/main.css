@@ -125,9 +125,9 @@ p.signIn, p.signIn a{
     display: block !important;
 }
  div.wp-follow{
-    padding-left: 10px; 
+
     
-    margin-top: 5px;
+    margin-top: 2%;
 }
 .fb-like, .ig-follow,.wp-follow,.wordpress-follow-button, .twitter-follow-button, .twitter_follow, .social iframe {
     width: 75%;
