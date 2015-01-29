@@ -173,12 +173,12 @@ form#searchBar {
   opacity: 0.7;
   width: 75%;
 }
-.sideNav{
+p.sideNav{
     float: right;
     background-color: #C0C0C0;
     color: #33292E;
     width: 40%;
-    
+    display: block
     
 }
 p.sideStuff {
