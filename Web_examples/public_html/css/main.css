@@ -73,6 +73,7 @@ textarea {
 }
 h1.title {
     display: inline;
+    vertical-align: middle;
 }
 p.signIn{
   display: inline; 
