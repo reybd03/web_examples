@@ -75,7 +75,7 @@ h1 {
     margin-right: 75px;
     width: 300px;
 }
-.signIn {
+#header.signIn {
     float: right;
     
 }
