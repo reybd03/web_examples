@@ -95,7 +95,7 @@ p.signIn, p.signIn a{
     width: 75%;
 }
 
-.NavMenu {
+p.navMenu {
   list-style-type: none;
   float: left;
   margin-right: 50px;
@@ -106,7 +106,7 @@ p.signIn, p.signIn a{
   display: block;
 }
 
-.NavMenu a {
+p.navMenu a {
     text-decoration: none;
     color: #00FF00;
 }
