@@ -110,6 +110,7 @@ p.signIn, p.signIn a{
 }
 .fb_iframe_widget {
     display: block !important;
+    float:right;
 }
 .fb-like {
     width: 75%;
