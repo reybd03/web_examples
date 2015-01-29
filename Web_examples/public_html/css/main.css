@@ -125,7 +125,7 @@ p.signIn, p.signIn a{
     display: block !important;
 }
 .social iframe {
-    margin-left: 3%; 
+    margin-left: 5%; 
 }
 .fb-like, .ig-follow, .wordpress-follow-button, .twitter-follow-button, .twitter_follow, .social iframe {
     width: 75%;
