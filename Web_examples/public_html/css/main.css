@@ -133,7 +133,7 @@ form#searchBar {
     left:-8px;
     border:2px solid #00FF00;
     background-color:#00FF00;
-    color:#fafafa;
+    color:#000;
 }
 .sButton:hover {
     background-color: #fafafa;
