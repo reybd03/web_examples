@@ -107,7 +107,7 @@ p.signIn, p.signIn a{
     float: right;
     margin: 2%;
     padding-left: 20%;
-    z-index: 1;
+    z-index: -1;
 }
 .fb_iframe_widget {
     display: block !important;
