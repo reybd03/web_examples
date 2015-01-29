@@ -95,7 +95,8 @@ p.signIn, p.signIn a{
     width: 75%;
 }
 img.daskLogo {
-  top: 0; 
+  top: 0;
+  left: 5;
 }
 
 p.navMenu {
