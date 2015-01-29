@@ -142,7 +142,7 @@ form#searchBar {
 .arrow {
     position: relative;
     left:-8px;
-    background: #207cca;
+    background: #00FF00;
     padding: 8px 15px;
 }
 .arrow:after {
