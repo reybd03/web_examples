@@ -70,6 +70,10 @@ textarea {
     padding-top: 15px;
     opacity: 0.7;
 }
+h1 {
+    padding-left: 75px;
+    margin-right: 75px;
+}
 
 .container {
     margin: 25px 150px;
@@ -80,10 +84,7 @@ textarea {
     padding: 75px;
     opacity: 0.7;
 }
-h1 {
-    padding-left: 75px;
-    margin-right: 75px;
-}
+
 ul.leftNavMenu {
   list-style-type: none;
   float: left;
@@ -104,6 +105,7 @@ form#searchBar {
     margin-right: 100px;
     clear: both;
     margin-top: 30px;
+    margin-left: 50px;
 }
 .sText {
     padding: 8px 15px;
