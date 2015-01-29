@@ -111,6 +111,7 @@ p.signIn, p.signIn a{
     position: absolute;
     top: 15px;
     right: 1px;
+    display: block;
 }
 .fb_iframe_widget {
     display: block !important;
