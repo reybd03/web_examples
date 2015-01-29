@@ -129,7 +129,7 @@ p.signIn, p.signIn a{
     
     margin-top: 2%;
 }
-.fb-like, .ig-follow,.wordpress-follow-button, .twitter-follow-button, .twitter_follow, .social iframe {
+.fb-like, .ig-follow,.wp-follow, .twitter-follow-button, .twitter_follow, .social iframe {
     width: 75%;
     float:right;
     margin-bottom:2%;
