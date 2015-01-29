@@ -105,7 +105,7 @@ p.signIn, p.signIn a{
 }
 .social {
     float: right;
-    margin: 2%;
+    margin-left: 2%;
     width: 305px;
     text-align: left;
     position: absolute;
