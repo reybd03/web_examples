@@ -70,12 +70,12 @@ textarea {
     padding: 15px;
     opacity: 0.7;
 }
-#header.h1 {
+h1 {
     padding: 75px;
     float: left;
     width: 300px;
 }
-#header.signIn {
+.signIn {
     float: right;
     
 }
