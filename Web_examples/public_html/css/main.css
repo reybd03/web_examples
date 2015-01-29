@@ -184,14 +184,14 @@ form#searchBar {
     color: #000;
 }
 .content {
-  margin: 0px 150px 50px;
+  margin: 0px 125px 50px;
   background-color: #D3D3D3;
   border-style: solid;
   border-color: #000;
   border-radius: 0px 3px;
   overflow: auto;
   opacity: 0.7;
-  width: 75%;
+  width: 80%;
 }
 .sideNav{
     float: right;
