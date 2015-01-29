@@ -124,7 +124,7 @@ form#searchBar {
 }
 .sText {
     padding: 8px 15px;
-    background: rgba(50,50,50,0.2);
+    background: #DCDCDC;
     border: 0px solid #00FF00;
 }
 .sButton {
