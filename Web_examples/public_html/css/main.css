@@ -118,7 +118,7 @@ p.navMenu a {
 form#searchBar {
     float: right;
     margin-right: 5px;
-    border-color: #00FF00;
+    
     margin-top: 0px;
     margin-left: 50px;
 }
@@ -175,6 +175,11 @@ p.sideNav, p.sideNav a{
   position: relative;
   clear: both;
   color: #00FF00;
+}
+
+
+input:focus {
+    outline: none;
 }
 
 /* ==========================================================================
