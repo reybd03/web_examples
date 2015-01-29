@@ -182,6 +182,10 @@ ul.bonus {
     float: right;
     list-style-type: none;
 }
+ul.bonus a {
+    display: block;
+    width: 10%;
+}
 
 .footer, .footer a {
   float: right;
