@@ -99,13 +99,14 @@ span.logo {
     width: 75%;
     height: 75%;
     top:0;
+    left: auto;
    
 }
 img.daskLogo {
   top: 0;
   width: 50%;
   margin-left: 5%;
-  float:left;
+  
 }
 .social {
     float: right;
