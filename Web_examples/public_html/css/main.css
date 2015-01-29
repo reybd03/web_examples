@@ -65,10 +65,11 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-#header {
+.header {
     background-color: white; 
     display: inline;
     margin: 30px;
+    width: auto;
     padding: 15px;
     opacity: 0.7;
 }
