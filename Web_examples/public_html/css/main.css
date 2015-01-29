@@ -124,12 +124,12 @@ p.signIn, p.signIn a{
 .fb_iframe_widget, .social iframe {
     display: block !important;
 }
- div.wp-follow{
-
+ .wp-follow{
+     width: 80%;
     
     margin-top: 2%;
 }
-.fb-like, .ig-follow,.wp-follow, .twitter-follow-button, .twitter_follow, .social iframe {
+.fb-like, .ig-follow, .twitter-follow-button, .twitter_follow, .social iframe {
     width: 75%;
     float:right;
     margin-bottom:2%;
