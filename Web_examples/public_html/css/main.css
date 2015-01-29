@@ -94,7 +94,7 @@ p.signIn, p.signIn a{
     opacity: 0.7;
 }
 
-ul.leftNavMenu {
+.NavMenu {
   list-style-type: none;
   float: left;
   margin-right: 50px;
@@ -105,7 +105,7 @@ ul.leftNavMenu {
   display: block;
 }
 
-ul.leftNavMenu a {
+.NavMenu a {
     text-decoration: none;
     color: #00FF00;
 }
