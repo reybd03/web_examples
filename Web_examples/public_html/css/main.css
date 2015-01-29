@@ -82,6 +82,7 @@ textarea {
 }
 h1 {
     padding-left: 75px;
+    margin-right: 75px;
 }
 ul.leftNavMenu {
   list-style-type: none;
