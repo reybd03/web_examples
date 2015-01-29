@@ -95,8 +95,12 @@ p.signIn, p.signIn a{
     width: 75%;
     
 }
+span.logo {
+    display: inline-block;
+}
 img.daskLogo {
   top: 0;
+  width: 50%;
   margin-left: 5%;
 }
 .social {
