@@ -181,8 +181,9 @@ form#searchBar {
     
     
 }
-.sideStuff {
+p.sideStuff {
     float: left;
+    display: block;
     margin: 15px 0px;
     color: #33292E;
     text-decoration: underline;
