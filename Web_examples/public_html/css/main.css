@@ -182,6 +182,7 @@ form#searchBar {
 ul.bonus {
     float: left;
     list-style-type: none;
+    color: #33292E;
 }
 ul.bonus a {
     display: block;
