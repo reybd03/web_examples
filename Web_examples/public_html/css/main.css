@@ -193,6 +193,7 @@ p.sideNav, p.sideNav a{
 
 input:focus {
     outline: 1px solid #00FF00;
+    background-color: #000;
 }
 
 /* ==========================================================================
