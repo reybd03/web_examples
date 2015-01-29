@@ -170,6 +170,7 @@ form#searchBar {
 }
 p.sideNav, p.sideNav a{
     list-style-type: none;
+    background-color: #DCDCDC;
     color: #00FF00;
 }
 
