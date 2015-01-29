@@ -70,7 +70,9 @@ textarea {
     padding-top: 15px;
     opacity: 0.7;
 }
-
+#header.title {
+    padding-left: 50px;
+}
 .container {
     margin: 25px 150px;
     background-color: #FFF;
