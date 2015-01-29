@@ -174,7 +174,7 @@ form#searchBar {
   width: 75%;
 }
 .sideNav{
-    list-style-type: none;
+    float: right;
     background-color: #C0C0C0;
     color: #33292E;
 }
