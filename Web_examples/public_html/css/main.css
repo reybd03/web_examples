@@ -73,9 +73,11 @@ textarea {
 h1 {
     padding-left: 75px;
     margin-right: 75px;
+    width: 300px;
 }
-#header.signIn {
+.signIn {
     float: right;
+    
 }
 .container {
     margin: 25px 150px;
