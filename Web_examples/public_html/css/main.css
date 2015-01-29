@@ -125,7 +125,7 @@ form#searchBar {
 .sText {
     padding: 8px 15px;
     background: rgba(50,50,50,0.2);
-    border: 0px solid #dbdbdb;
+    border: 0px solid #00FF00;
 }
 .sButton {
     position:relative;
