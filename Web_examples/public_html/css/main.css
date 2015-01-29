@@ -163,7 +163,7 @@ p.sideNav, p.sideNav a{
     color: #00FF00;
 }
 
-.footer {
+.footer, .footer a {
   float: right;
   font-size: 24px;
   font-style: italic;
@@ -171,6 +171,7 @@ p.sideNav, p.sideNav a{
   padding-right: 150px;
   position: relative;
   clear: both;
+  color: #00FF00;
 }
 
 /* ==========================================================================
