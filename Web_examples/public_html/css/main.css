@@ -98,7 +98,9 @@ img.daskLogo {
   top: 0;
   margin-left: 75px;
 }
-
+ul.social {
+    float: right;
+}
 p.navMenu {
   list-style-type: none;
   float: left;
