@@ -104,6 +104,7 @@ img.daskLogo {
     float: right;
     list-style-type: none;
     display: block;
+    margin-right: 2%;
 }
 .fb_iframe_widget {
     display: block !important;
