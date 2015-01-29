@@ -103,6 +103,7 @@ img.daskLogo {
 .social {
     float: right;
     list-style-type: none;
+    display: block;
 }
 .fb_iframe_widget {
     display: block !important;
