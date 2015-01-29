@@ -183,7 +183,7 @@ form#searchBar {
 p.sideStuff {
     float: left;
     display: block;
-    margin: 15px 5px;
+    margin: 15px 15px;
     width: 100%;
     color: #33292E;
     text-decoration: underline;
