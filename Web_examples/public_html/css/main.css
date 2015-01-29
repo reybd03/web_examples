@@ -103,7 +103,7 @@ p.signIn, p.signIn a{
   z-index: -1;
 }
 .social {
-    float: right;
+    float: left;
     margin: 1%;
 }
 .fb_iframe_widget {
