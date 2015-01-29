@@ -184,6 +184,7 @@ p.sideStuff {
     float: left;
     display: block;
     margin: 15px 5px;
+    width: auto;
     color: #33292E;
     text-decoration: underline;
 }
