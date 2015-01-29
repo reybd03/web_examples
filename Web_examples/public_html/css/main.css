@@ -81,6 +81,7 @@ p.signIn{
   display: inline; 
   float: right;
   margin-right: 10%;
+  color: #00FF00;
 }
 .container {
     margin: 25px 150px;
