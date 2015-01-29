@@ -124,15 +124,12 @@ p.signIn, p.signIn a{
 .fb_iframe_widget {
     display: block !important;
 }
-.fb-like {
+.fb-like, .ig-follow, .wordpress-follow-button, .twitter-follow-button, .twitter_follow {
     width: 75%;
     float:right;
     margin-bottom:5px;
 }
-.wordpress-follow-button {
-    width: 75%;
-    float: right;
-}
+
 /*
     Search Bar
 */
