@@ -169,7 +169,7 @@ form#searchBar {
   border-style: solid;
   border-color: #000;
   border-radius: 0px 3px;
-  padding: 0px 5px 0px 0px;
+  padding: 0px;
   opacity: 0.7;
   width: 75%;
 }
