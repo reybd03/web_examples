@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]>    <html class="no-js iem7"> <![endif]-->
-<!--[if (gt IEMobile 7)|!(IEMobile)]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if (gt IEMobile 7)|!(IEMobile)]><!-->  <!--<![endif]-->
+
+    <!-- TODO:
+     >> Page title                         Sign in
+     >>  LOGO                              Social Sites
+     >> Main Nav Menu                      Search Bar
+     >> Content                            Featured Users
+     >> (blogs n stuff)                    Trending Clothes
+     >>                                    Facebook Feeds
+     >>                                    Twitter Feeds
+     >> Footer
     
- <!-- TODO:
-  >> Page title                         Sign in
-  >>  LOGO                              Social Sites
-  >> Main Nav Menu                      Search Bar
-  >> Content                            Featured Users
-  >> (blogs n stuff)                    Trending Clothes
-  >>                                    Facebook Feeds
-  >>                                    Twitter Feeds
-  >> Footer
- 
- -->
+    -->
     <head>
         <meta charset="utf-8">
         <title>The Dask One</title>
@@ -48,47 +48,44 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
         <link href="http://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet" type="text/css">
-        
+
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
-    <body>
+    
 
         <!-- Add your site or application content here -->
         <div id="header">
             <h1 class="title">The Dask One</h1>
-           
-             <p class="signIn">
-                     <a href="">Sign in</a>
-               <!--
-                     Form
-                  <li>Member Login</li>
-                    <li>Name</li>
-                    <li>Password</li>
-                    <li>Submit</li>
-                    <li>Forgot Password</li>  
+
+            <p class="signIn">
+                <a href="">Sign in</a>
+                <!--
+                      Form
+                   <li>Member Login</li>
+                     <li>Name</li>
+                     <li>Password</li>
+                     <li>Submit</li>
+                     <li>Forgot Password</li>  
                 -->
             </p> 
         </div>
         <form id="searchBar">
-                <input class="sText" type="text" placeholder="Search..." required>
-                <span class="arrow">
+            <input class="sText" type="text" placeholder="Search..." required>
+            <span class="arrow">
                 <input  class="sButton" type="button" value="Search">
-                </span>
-                </form>
-        
-        <ul class="leftNavMenu">
-                    <li> <a href="test.html">News</a></li>
-                    <li><a href="">Products</a> </li>
-                    <li><a href="">Blog</a> </li>
-                    <li><a href="">Videos</a> </li>
-                    <li><a href="">Events</a></li>
-                    <li><a href="">Info</a></li>
-             </ul>
-      
-   
-        
+            </span>
+        </form>
+
         <div class="container">
             <img src="https://cloud.githubusercontent.com/assets/2433593/5953224/a20c71de-a74b-11e4-9574-6c5486f1960b.jpg" alt="Dask One Logo" >
+            <p class="navMenu">
+                <a href="test.html">News</a>
+                <a href="">Products</a> 
+                <a href="">Blog</a> 
+                <a href="">Videos</a>
+                <a href="">Events</a>
+                <a href="">Info</a>
+            </p>
             <!-- sideBar goes right side, hanging -->
             <div class="sideBar">
                 <nav class="sideNav">
@@ -126,12 +123,12 @@
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
             var _gaq = [["_setAccount", "UA-XXXXX-X"], ["_trackPageview"]];
-            (function(d, t) {
+            (function (d, t) {
                 var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
                 g.async = 1;
                 g.src = ("https:" == location.protocol ? "//ssl" : "//www") + ".google-analytics.com/ga.js";
                 s.parentNode.insertBefore(g, s)
             }(document, "script"));
         </script>
-    </body>
-</html>
+    
+
