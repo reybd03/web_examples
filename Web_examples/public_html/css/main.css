@@ -106,8 +106,11 @@ p.signIn, p.signIn a{
 .social {
     float: right;
     margin: 2%;
-    padding-left: 50%;
-    z-index: -1;
+    width: 305px;
+    text-align: left;
+    position: absolute;
+    top: 15px;
+    right: 1px;
 }
 .fb_iframe_widget {
     display: block !important;
