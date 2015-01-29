@@ -102,6 +102,9 @@ img.daskLogo {
     float: right;
     list-style-type: none;
 }
+.fb-like {
+    display: none;
+}
 p.navMenu {
   list-style-type: none;
   float: left;
