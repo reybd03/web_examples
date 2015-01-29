@@ -98,7 +98,7 @@ p.signIn, p.signIn a{
 #daskLogo {
   //top: 0;
   z-index: -1;
-  width: 80%;
+  width: 100%;
   overflow: hidden;
   
   background: #000 url('https://cloud.githubusercontent.com/assets/2433593/5960791/7f078212-a79d-11e4-8e4d-1d6bfd82ca72.jpg') top left no-repeat;
