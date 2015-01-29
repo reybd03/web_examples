@@ -98,7 +98,7 @@ p.signIn, p.signIn a{
 span.logo {
     width: 75%;
     top:0;
-    left:0;
+    float: left;
 }
 img.daskLogo {
   top: 0;
