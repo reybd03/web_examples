@@ -121,7 +121,7 @@ p.signIn, p.signIn a{
     right: 1px;
     display: block;
 }
-.fb_iframe_widget {
+.fb_iframe_widget, .social iframe {
     display: block !important;
 }
 .fb-like, .ig-follow, .wordpress-follow-button, .twitter-follow-button, .twitter_follow, .social iframe {
