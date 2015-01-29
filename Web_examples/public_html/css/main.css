@@ -80,7 +80,7 @@ h1.title {
 p.signIn, p.signIn a{
   display: inline; 
   float: right;
-  margin-right: 10%;
+  margin-right: 15%;
   color: #00FF00;
 }
 .container {
