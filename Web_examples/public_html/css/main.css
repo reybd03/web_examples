@@ -74,6 +74,9 @@ textarea {
 h1.title {
     display: inline;
 }
+p.signIn{
+  display: inline;  
+}
 .container {
     margin: 25px 150px;
     background-color: #FFF;
