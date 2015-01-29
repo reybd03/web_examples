@@ -128,6 +128,7 @@ p.signIn, p.signIn a{
     width: 82%;
     float: right;
     margin-top: 3%;
+    text-align: right;
     
 }
 .fb-like, .ig-follow, .wordpress-follow-button, .twitter-follow-button, .twitter_follow, .social iframe {
