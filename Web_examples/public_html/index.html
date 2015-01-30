@@ -66,6 +66,42 @@ back to top
 
     <!-- Social Scripts -->
     <script src="https://apis.google.com/js/platform.js"></script>
+    
+    
+    <!-- Header Script -->
+    <script type='text/javascript'>
+        //<![CDATA [
+        $(function() {
+            // Stick the #nav to the top of the window
+            var nav = $('#header');
+            var navHomeY = nav.offset().top;
+            var isFixed = false;
+            var $w = $(window);
+            $w.scroll(function() {
+                var scrollTop = $w.scrollTop > navHomeY;
+                if (shouldBeFixed && !isFixed) {
+                    nav.css({
+                        position: 'fixed',
+                        top: 0,
+                        left: nav.offset().left,
+                        width: nav.width()
+                    });
+                    isFixed = true;
+                }
+                else if (!shouldBeFixed && isFixed)
+                {
+                    nav.css({
+                        position: 'static'
+                    });
+                    isFixed = false;
+                }
+            });
+        });
+        
+        
+        //]]>
+    </script>
+    
 
 </head>
 
@@ -101,10 +137,13 @@ back to top
 <!-- Add your site or application content here -->
 <!-- socialScripts.js -->
 
+<!-- Header -->
 
 <div id="header">
-    <!-- Switch title and navMenu -->
+    
     <h1 class="title">The Dask One</h1>
+    
+    <!-- Top Nav menu -->
     <div class="navMenu">
         <ul>
             <li><a href="test.html" class="smoothScroll">News</a> <!-- Events --></li>
@@ -114,6 +153,8 @@ back to top
             <li><a href="" class="smoothScroll">Info</a></li>
         </ul>
     </div>
+    
+    <!-- Store -->
     <p class="signIn">
         <a href="">Store</a>
         <!--
