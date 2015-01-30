@@ -113,8 +113,8 @@ h1.title {
 .navMenu li a:hover {
     text-decoration: underline;
 }
-.smoothScroll {
-    list-style-type: none;
+br.clearLeft {
+    clear: left;
 }
 p.signIn, p.signIn a{
     display: inline; 
