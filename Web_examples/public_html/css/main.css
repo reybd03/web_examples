@@ -237,10 +237,11 @@ p.sideStuff {
     text-decoration: underline;
 }
 
-p#trendingApp {
+p#trendingApp, p#trendingApp1 {
    overflow: hidden;
-   height: auto;
-   width: auto;
+   height: 200px;
+   width: 200px;
+   margin-top: 5px;
 }
 
 .fb-like-box {
