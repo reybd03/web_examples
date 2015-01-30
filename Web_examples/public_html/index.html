@@ -78,7 +78,8 @@ back to top
             var isFixed = false;
             var $w = $(window);
             $w.scroll(function() {
-                var scrollTop = $w.scrollTop > navHomeY;
+                var scrollTop = $w.scrollTop; 
+                var shouldBeFixed = scrollTop > navHomeY;
                 if (shouldBeFixed && !isFixed) {
                     nav.css({
                         position: 'fixed',
