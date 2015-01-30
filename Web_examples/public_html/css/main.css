@@ -92,7 +92,7 @@ h1.title {
     display: inline;
     margin-left: 3px;
     word-spacing: 10px;
-    bottom:1px;
+    margin-bottom: -10px;
 
 }
 
