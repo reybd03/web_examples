@@ -86,7 +86,7 @@ h1.title {
     color: #00FF00;
     margin: 5px 75px;
 }
-p.navMenu {
+h2.navMenu {
     list-style-type: none;
     float: left;
     display: inline;
@@ -96,7 +96,7 @@ p.navMenu {
 
 }
 
-p.navMenu a {
+h2.navMenu a {
     text-decoration: none;
     color: #00FF00;
 }
