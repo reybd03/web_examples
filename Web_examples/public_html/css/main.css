@@ -102,7 +102,7 @@ div.navMenu a {
     color: #00FF00;
 }
 .smoothScroll {
-    
+    list-style-type: none;
 }
 p.signIn, p.signIn a{
     display: inline; 
