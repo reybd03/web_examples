@@ -245,7 +245,7 @@ p#trendingApp, #trendingApp1 {
    display: block;
 }
 
-#trendingApp1::-webkit-scrollbar {
+::-webkit-scrollbar {
     display: none;
 }
 
