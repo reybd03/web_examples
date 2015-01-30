@@ -220,7 +220,12 @@ p.navMenu a {
 
 .main {
     float: left;
-    margin: 3% 5%;
+    margin: 2% 5%;
+}
+
+.video {
+    float: left;
+    margin: 1% 4%;
 }
 /*
     Side Bar
