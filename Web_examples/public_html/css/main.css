@@ -90,9 +90,9 @@ p.navMenu {
     list-style-type: none;
     float: left;
     display: inline;
-    margin: 2px 3px;
+    margin-left: 3px;
     word-spacing: 10px;
-    vertical-align: bottom;
+    bottom:1px;
 
 }
 
