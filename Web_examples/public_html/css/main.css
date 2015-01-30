@@ -102,7 +102,7 @@ h1.title {
 }
 .navMenu li {
    float: left;
-   padding: 3px 8px;
+   padding: 0px 8px;
    list-style-type: none;
 }
 
