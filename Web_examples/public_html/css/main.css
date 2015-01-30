@@ -87,6 +87,9 @@ h1.title {
     margin: 5px 75px;
 }
 h2.navMenu {
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 35px;
     list-style-type: none;
     float: left;
     display: inline;
