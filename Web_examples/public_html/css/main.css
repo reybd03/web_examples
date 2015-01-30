@@ -92,7 +92,7 @@ p.navMenu {
     display: inline;
     margin: 2px 3px;
     word-spacing: 10px;
-    bottom: 0;
+    vertical-align: bottom;
 
 }
 
