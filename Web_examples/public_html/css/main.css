@@ -86,7 +86,7 @@ h1.title {
     color: #00FF00;
     margin: 5px 75px;
 }
-div.navMenu {
+.navMenu {
     font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
     font-size: 20px;
     line-height: 25px;
@@ -96,8 +96,17 @@ div.navMenu {
     margin: 5px 0px 0px 3px;
     word-spacing: 10px;
 }
+.navMenu ul {
+    margin: 0;
+    padding: 0;
+}
+.navMenu li {
+   float: left;
+   padding: 3px 8px;
+   list-style-type: none;
+}
 
-div.navMenu a {
+.navMenu a {
     text-decoration: none;
     color: #00FF00;
 }
