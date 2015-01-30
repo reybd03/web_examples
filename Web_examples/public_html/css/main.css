@@ -240,7 +240,7 @@ p.sideStuff {
 p#trendingApp, p#trendingApp1 {
    overflow: hidden;
    height: auto;
-   width: 200px;
+   width: auto;
    margin-top: 5px;
 }
 
