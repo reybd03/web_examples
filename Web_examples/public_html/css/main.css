@@ -237,7 +237,7 @@ p.sideStuff {
     text-decoration: underline;
 }
 
-#trendingApp {
+p#trendingApp {
    overflow: hidden;
    height: auto;
    width: auto;
