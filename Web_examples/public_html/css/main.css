@@ -84,7 +84,7 @@ h1.title {
     float: left;
     text-shadow: 1px 1px 0px #ededed, 4px 4px 0px #808080;
     color: #00FF00;
-    margin: 0px;
+    margin: 0px 75px;
 }
 p.navMenu {
     list-style-type: none;
