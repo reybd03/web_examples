@@ -238,10 +238,11 @@ p.sideStuff {
 }
 
 p#trendingApp, #trendingApp1 {
-   overflow: auto;
+   overflow: hidden;
    height: auto;
    width: auto;
    margin-top: 5px;
+   display: block;
 }
 
 .fb-like-box {
