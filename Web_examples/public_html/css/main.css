@@ -121,7 +121,7 @@ p.signIn, p.signIn a{
     right: 1px;
     display: block;
 }
-.fb_iframe_widget, .social iframe {
+.fb_iframe_widget {
     display: block !important;
 }
 
@@ -237,7 +237,7 @@ p.sideStuff {
     text-decoration: underline;
 }
 
-.trendingApp iframe{
+iframe.trendingApp {
    overflow: hidden;
 }
 
