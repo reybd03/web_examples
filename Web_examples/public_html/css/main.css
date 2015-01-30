@@ -245,6 +245,10 @@ p#trendingApp, #trendingApp1 {
    display: block;
 }
 
+#trendingApp1::-webkit-scrollbar {
+    display: none;
+}
+
 .fb-like-box {
     margin: 5px 5%;
 }
