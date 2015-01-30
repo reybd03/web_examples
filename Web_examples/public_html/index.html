@@ -187,8 +187,10 @@
         <p id="trendingApp1"></p>
         <script>
             $(document.ready(function(){
+                $(window).scroll(function() {
                 $('#trendingApp1').load('http://thedaskoneartistbrand.bigcartel.com/');
-            }));
+            });
+        });
         </script>
     
         <p class="sideStuff">Latest Blog</p>
