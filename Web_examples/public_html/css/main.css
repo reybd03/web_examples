@@ -218,6 +218,10 @@ p.navMenu a {
     width: 80%;
 }
 
+.main {
+    float: left;
+    margin: 10% 5%;
+}
 /*
     Side Bar
 */
