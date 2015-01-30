@@ -95,13 +95,14 @@ div.navMenu {
     display: inline;
     margin: 5px 0px 0px 3px;
     word-spacing: 10px;
-    
-
 }
 
 div.navMenu a {
     text-decoration: none;
     color: #00FF00;
+}
+.smoothScroll {
+    
 }
 p.signIn, p.signIn a{
     display: inline; 
