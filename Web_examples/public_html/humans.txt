@@ -1,14 +1,14 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The human(s) responsible & technology colophon
 
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+    Reynaldo D. Benavidez   Web Developer, Software Engineer, Creator of Magic      @mchunky11
 # THANKS
 
-    <name>
-
+    Rey
+    
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
