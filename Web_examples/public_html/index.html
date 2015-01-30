@@ -151,10 +151,11 @@
 
    </div>
 
-    <form id="searchBar">
+    <form method="get" action="http://www.google.com/search" id="searchBar" target="_blank">
+        <input type="hidden" name="sitesearch" value="http://reybd03.github.io/web_examples/Web_examples/public_html/index.html"> 
         <input class="sText" type="text" placeholder="Search..." required>
         <span class="arrow">
-            <input  class="sButton" type="button" value="Search">
+            <input  class="sButton" type="submit" value="Search">
         </span>
     </form>
 </div>
