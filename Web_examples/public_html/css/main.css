@@ -106,9 +106,12 @@ h1.title {
    list-style-type: none;
 }
 
-.navMenu a {
+.navMenu li a {
     text-decoration: none;
     color: #00FF00;
+}
+.nav li a:hover {
+    text-decoration: underline;
 }
 .smoothScroll {
     list-style-type: none;
