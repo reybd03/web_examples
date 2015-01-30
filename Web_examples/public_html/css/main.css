@@ -84,11 +84,12 @@ h1.title {
     float: left;
     text-shadow: 1px 1px 0px #ededed, 4px 4px 0px #808080;
     color: #00FF00;
-    margin: 0px 75px;
+    margin: 5px 75px;
 }
 p.navMenu {
     list-style-type: none;
     float: left;
+    display: inline;
     margin: 10px 3px 5px 5px;
     word-spacing: 10px;
     
