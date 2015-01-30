@@ -2,8 +2,7 @@
 <!--[if IEMobile 7 ]>    <html class="no-js iem7"> <![endif]-->
 <!--[if (gt IEMobile 7)|!(IEMobile)]><!-->  <!--<![endif]-->
 
-<!-- TODO:
- >> Page title                         Sign in
+<!-- TODO: Sign in
  >>  LOGO                              Social Sites
  >> Main Nav Menu                      Search Bar
  >> Featured Item                           Featured Users
@@ -17,6 +16,9 @@
 >> Purge the non-believers
 >> Format to likings
 >> socialSites.js
+>> minions. js
+>> Blog.html
+>> Background img
 >> profit
 >> Repeat
 
@@ -59,8 +61,8 @@
 
     <script src="js/vendor/modernizr-2.6.2.min.js"></script> 
     <!-- Social Scripts -->
-<script src="https://apis.google.com/js/platform.js"></script>
-    
+    <script src="https://apis.google.com/js/platform.js"></script>
+
 </head>
 
 
@@ -93,6 +95,9 @@
     }(document, "script"));</script>
 
 <!-- Add your site or application content here -->
+<!-- socialScripts.js -->
+
+
 <div id="header">
     <!-- Switch title and navMenu -->
     <h1 class="title">The Dask One</h1>
@@ -116,6 +121,7 @@
     </p> 
 </div>
 
+<!-- Container -->
 
 <div class="container">
     <div id="daskLogo" style="position:relative;height:200px;">
@@ -140,17 +146,17 @@
 
             <span class="ig-follow" data-id="4d13b682e8" data-count="true" data-size="medium" data-username="true"></span>
 
-            <div class="g-ytsubscribe" data-channelid="UCtvRycL2GQTtxZortlPWY4g" data-layout="default" data-count="default"></div>
-        
+            <div class="g-ytsubscribe" data-channelid="UCtvRycL2GQTtxZortlPWY4g" data-theme="dark" data-layout="default" data-count="default"></div>
+
         </div>
 
-    
-    <!--
-    <img class="daskLogo" src="https://cloud.githubusercontent.com/assets/2433593/5953224/a20c71de-a74b-11e4-9574-6c5486f1960b.jpg" alt="Dask One Logo"
-         width="750" height="200" >
-    -->
 
-   </div>
+        <!--
+        <img class="daskLogo" src="https://cloud.githubusercontent.com/assets/2433593/5953224/a20c71de-a74b-11e4-9574-6c5486f1960b.jpg" alt="Dask One Logo"
+             width="750" height="200" >
+        -->
+
+    </div>
 
     <form method="get" action="http://www.google.com/search" id="searchBar" name="searchform" target="_blank">
         <input type="hidden" name="sitesearch" value="http://thedaskoneartistbrand.bigcartel.com/"> 
@@ -161,32 +167,55 @@
     </form>
 </div>
 
-<div class="content">
-    <div class="sideNav">
-        <p class="sideStuff">Trending Apparel</p>
+<!-- Content -->
 
+<div class="content">
+    
+    <!-- Side Bar -->
+    <div class="sideNav">
+        
+        <p class="sideStuff">Trending Apparel</p>
+        <iframe class="trendingApp" src="http://thedaskoneartistbrand.bigcartel.com/" frameborder="0" scrolling="no" ></iframe>
+        
+        
         <p class="sideStuff">Latest Blog</p>
+        
+        
         <p class='sideStuff'>The Dask One on Facebook</p>
         <div class="fb-like-box" data-href="https://www.facebook.com/FacebookDevelopers" 
              data-width="80%" data-height="500px" data-colorscheme="dark" 
              data-show-faces="true" data-header="false" data-stream="false" 
              data-show-border="false"></div> 
+        
+        
         <p class='sideStuff'>Tweets</p>
-<a class="twitter-timeline" href="https://twitter.com/mchunky11" data-widget-id="560992448927645696">Tweets by @mchunky11</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <a class="twitter-timeline" href="https://twitter.com/mchunky11" data-widget-id="560992448927645696">Tweets by @mchunky11</a>
+        <script>!function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+        if (!d.getElementById(id)) {
+            js = d.createElement(s);
+            js.id = id;
+            js.src = p + "://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+    }(document, "script", "twitter-wjs");</script>
 
 
 
     </div>
-    <p>
+    
+    <!-- Main Content -->
+    
+    <div id="mainContent">
     <u><strong>Featured Content</strong></u>
-</p>
-<p>
+    
+    <p>
     Discuss the company mission and the future of your company.
-</p>
-
+    </p>
+    </div>
 </div>
 
+<!-- Footer -->
 
 <div class="footer">
     <nav>
@@ -212,4 +241,4 @@
     }(document, "script"));
 </script>
 
- 
+
