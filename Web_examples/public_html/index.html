@@ -180,7 +180,9 @@
         <p id="trendingApp"></p>
         
         <script>
-            $('#trendingApp').load('http://thedaskoneartistbrand.bigcartel.com/');
+            $(function(){
+                $('#trendingApp').html('<object id="webloader" data="http://thedaskoneartistbrand.bigcartel.com/"/>');
+            });
         </script>
     
         <p class="sideStuff">Latest Blog</p>
