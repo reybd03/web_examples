@@ -227,6 +227,9 @@ p.navMenu a {
     float: left;
     margin: 1% 4%;
 }
+.videoText {
+    float: left;
+}
 /*
     Side Bar
 */
