@@ -117,7 +117,7 @@ h1.title {
     text-decoration: underline;
 }
 .hoverMenu{
-    color: blue;
+    color: #000;
 }
 br.clearLeft {
     clear: left;
