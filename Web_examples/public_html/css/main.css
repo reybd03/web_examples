@@ -233,7 +233,7 @@ input:focus {
 
 
 .content {
-    margin: 0px 125px 50px;
+    //margin: 0px 125px 50px;
     background-color: #D3D3D3;
     border-style: solid;
     border-color: #000;
