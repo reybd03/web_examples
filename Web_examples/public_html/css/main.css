@@ -113,13 +113,6 @@ h1.title {
    overflow:hidden;
 }
 
-.navMenu li a {
-    text-decoration: none;
-    color: #00FF00;
-}
-.navMenu li a:hover {
-    text-decoration: underline;
-}
 /* styling the links */
 .normalMenu, .normalMenu:visited,
 .hoverMenu, .hoverMenu:visited,
