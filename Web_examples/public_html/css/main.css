@@ -107,6 +107,7 @@ h1.title {
    float: left;
    padding: 10px 8px 0px ;
    list-style-type: none;
+   overflow:hidden;
 }
 
 .navMenu li a {
