@@ -127,7 +127,7 @@ h1.title {
 .hoverMenu,.hoverMenu:visited,
 .selectedMenu,.selectedMenu:visited {
     margin-top:-25px;
-    background:repeat-x #eeeeee;
+    background-color: #000;
     color:#444444;
 }
 
