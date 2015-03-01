@@ -314,7 +314,7 @@ p.sideStuff {
     float: right;
     width: 150px;
     position: fixed;
-   
+   opacity: .7;
 }
 
 
