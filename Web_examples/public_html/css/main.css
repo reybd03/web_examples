@@ -121,6 +121,7 @@ h1.title {
 }
 #navigationMenu li .hoverMenu{
     color: #000;
+    display: none;
 }
 br.clearLeft {
     clear: left;
