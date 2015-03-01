@@ -120,7 +120,7 @@ h1.title {
     color: red;
 }
 #navigationMenu li .hoverMenu{
-    color: #000;
+    color: blue;
     display: none;
 }
 br.clearLeft {
