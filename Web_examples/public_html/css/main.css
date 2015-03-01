@@ -309,9 +309,11 @@ p.sideStuff {
 }
 
 #toTop {
+    background-color: #000; 
     float: right;
     width: 150px;
     position: fixed;
+    background-color: #000; 
 }
 
 
