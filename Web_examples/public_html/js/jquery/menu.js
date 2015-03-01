@@ -22,7 +22,7 @@ $(document).ready(function(){
 	
 	function(){
 	
-		$(this).find('.hoverMenu').stop().animate({marginTop:'-35px'},200);
+		$(this).find('.hoverMenu').stop().animate({marginTop:'-25px'},200);
 
 	});
 	
