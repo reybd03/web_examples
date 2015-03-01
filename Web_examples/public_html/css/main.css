@@ -105,6 +105,8 @@ h1.title {
 }
 .navMenu li {
    float: left;
+   border:1px solid #444444;
+    display:inline-block;
    padding: 10px 8px 0px ;
    list-style-type: none;
    overflow:hidden;
