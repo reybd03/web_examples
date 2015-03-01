@@ -116,12 +116,31 @@ h1.title {
 .navMenu li a:hover {
     text-decoration: underline;
 }
-#navigationMenu li .normalMenu {
-    color: red;
+/* styling the links */
+.normalMenu, .normalMenu:visited,
+.hoverMenu, .hoverMenu:visited,
+.selectedMenu,.selectedMenu:visited {/* these properties are shared between the classes */
+    outline:none;
+    padding:5px 10px;
+    display:block;
 }
-#navigationMenu li .hoverMenu{
-    color: blue;
-    display: none;
+
+/* styles that are assigned individually */
+
+.hoverMenu,.hoverMenu:visited,
+.selectedMenu,.selectedMenu:visited {
+    margin-top:-25px;
+    background:repeat-x #eeeeee;
+    color:#444444;
+}
+
+.selectedMenu,.selectedMenu:visited {
+    margin:0;
+}
+
+.normalMenu, .normalMenu:visited{
+    color:white;
+    background: repeat-x #444444;
 }
 br.clearLeft {
     clear: left;
