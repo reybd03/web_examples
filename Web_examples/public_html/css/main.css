@@ -119,7 +119,7 @@ h1.title {
 #navigationMenu li .normalMenu {
     color: red;
 }
-.hoverMenu{
+#navigationMenu li .hoverMenu{
     color: #000;
 }
 br.clearLeft {
